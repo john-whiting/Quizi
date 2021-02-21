@@ -164,8 +164,13 @@ app.get('/api/question/:type/:difficulty/', (request, response) => {
                 userDataString: ''
             }
             if (Auth.isAuthorized(request)){
-                const successRate = Math.round(10000 * request.session.user.questionsCorrect / request.session.user.questionsAnswered) / 100
-                ret.userDataString = "User Success Rate: " + successRate.toString() + "%"
+                if (request.session.user.questionsAnswered == 0){
+                    ret.userDataString = "Answer Questions to Load your Success Rate!"
+                }
+                else{
+                    const successRate = Math.round(10000 * request.session.user.questionsCorrect / request.session.user.questionsAnswered) / 100
+                    ret.userDataString = "User Success Rate: " + successRate.toString() + "%"
+                }
             }
             response.json(ret)
         })
