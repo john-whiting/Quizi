@@ -1,0 +1,13 @@
+{
+  "questionType": "calculus_hard",
+  "questions": [
+    {
+      "question": "What is the third derivative of 113906774*q**5 - 126991591*q**2 wrt q?",
+      "answers": {"6834406440*q**2": true, "-16": false}
+    },
+    {
+      "question": "Let t(i) be the second derivative of 14*i + 0 - 9*i**2 + 9/2*i**3 - 2/3*i**4. Let j(f) be the first derivative of t(f). What is the derivative of j(x) wrt x?",
+      "answers": {"-16": true, "6834406440*q**2": false}
+    }
+  ]
+}

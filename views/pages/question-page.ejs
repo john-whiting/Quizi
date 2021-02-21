@@ -1,0 +1,30 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <%- include('../partials/head', {title: type.replace(/\w/, c => c.toUpperCase())}); %>
+    </head>
+    <body>
+        <%- include('../partials/scripts'); %>
+        <%- include('../partials/navbar'); %>
+
+        <% if (diff != undefined) { %>
+            <%- include('../partials/question-display'); %>
+        <% } else { %>
+
+            <div class="d-flex flex-column justify-content-center pt-3">
+                <div class="d-flex flex-row justify-content-center">
+                    <h3 style="font-weight:600;">Chose your difficulty!</h3>
+                </div>
+                <div class="d-flex flex-row justify-content-center">
+                    <a class="btn btn-success my-2" style="width:200px;" href='/q/<%= type %>/easy'>Easy</a>
+                </div>
+                <div class="d-flex flex-row justify-content-center">
+                    <a class="btn btn-warning my-2" style="width:200px;" href='/q/<%= type %>/medium'>Medium</a>
+                </div>
+                <div class="d-flex flex-row justify-content-center">
+                    <a class="btn btn-danger my-2" style="width:200px;" href='/q/<%= type %>/hard'>Hard</a>
+                </div>
+            </div>
+        <% } %> 
+    </body>
+</html>

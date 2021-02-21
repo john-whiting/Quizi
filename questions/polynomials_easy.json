@@ -1,0 +1,76 @@
+{
+  "questionType": "polynomials_easy",
+  "questions": [
+    {
+      "question": "Let m(w) = 3*w**2 + 12*w + 3. Let d(x) = x**2 + 4*x + 1. Determine -8*d(v) + 3*m(v).",
+      "answers": {
+        "v**2 + 4*v + 1": true,
+        "8*v**2": false,
+        "2*v": false
+      }
+    },
+    {
+      "question": "Rearrange 8*p**3 + 4*p - 2*p**3 - 4*p**3 to the form j*p**3 + b*p + x + q*p**2 and give b.",
+      "answers": {
+        "4": true,
+        "2*p": false,
+        "6*p": false,
+        "3*p": false
+      }
+    },
+    {
+      "question": "Collect the terms in 10*x**2 + 696 - 2*x**2 - 696.",
+      "answers": {
+        "8*x**2": true,
+        "2*x": false,
+        "x**2 + 6*x + 1": false,
+        "x": false
+      }
+    },
+    {
+      "question": "Let k(u) = -u - 3. Let a(z) = -2 + z - 6 + 5. Let n be a(6). Let l(d) = -d - 4. Let o(y) = n*l(y) - 4*k(y). Let t(f) = 2*f. Calculate t(o(j)).",
+      "answers": {
+        "2*j": true,
+        "j**(-3/4)": false,
+        "17": false,
+        "j**(-1/4)": false
+      }
+    },
+    {
+      "question": "Let t(l) = 3 - 59*l. Calculate t(-1).",
+      "answers": {
+        "62": true,
+        "2*l": false,
+        "8*l**2": false,
+        "4*l - 2": false
+      }
+    },
+    {
+      "question": "Let z(v) = -20*v**2 + 5*v**2 + 32*v**2. Determine z(-1).",
+      "answers": {
+        "17": true,
+        "4": false,
+        "12": false,
+        "9": false
+      }
+    },
+    {
+      "question": "Expand (-2*h + 2*h - 2*h)*(2 - 3 - 1) - h + 2 - 2 + h - 1 + 4 - 5.",
+      "answers": {
+        "4*h - 2": true,
+        "62": false,
+        "h**(-3/4)": false,
+        "8*h**2": false
+      }
+    },
+    {
+      "question": "Simplify (p**(3/14))**(-7/2) assuming p is positive.",
+      "answers": {
+        "p**(-3/4)": true,
+        "8*p**2": false,
+        "2*p": false,
+        "62": false
+      }
+    }
+  ]
+}

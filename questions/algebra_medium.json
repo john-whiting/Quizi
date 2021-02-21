@@ -1,0 +1,72 @@
+{
+  "questionType": "algebra_medium",
+  "questions": [
+    {
+      "question": "Solve -256*l - 9343 = -5503 for l.",
+      "answers": {
+        "-15": true,
+        "-17": false,
+        "-21": false
+      }
+    },
+    {
+      "question": "Suppose 3*j = 39 - 30. Solve -p + 12 = j*p for p.",
+      "answers": {
+        "3": true,
+        "4": false,
+        "5": false
+      }
+    },
+    {
+      "question": "Solve -4*c + 2*q + 30 = 0, 3*c - 25 = 35*q - 33*q for c.",
+      "answers": {
+        "5": true,
+        "2": false,
+        "8": false,
+        "4": false
+      }
+    },
+    {
+      "question": "Let q = -98 - -103. Solve -23 = -3*y + 4*i, -y + q*i = -0*y - 15 for y.",
+      "answers": {
+        "5": true,
+        "7": false,
+        "6": false
+      }
+    },
+    {
+      "question": "Suppose 2*n**5 + 1160*n**4 - 5838*n**3 + 7028*n**2 + 4664*n - 9360 = 0. What is n?",
+      "answers": {
+        "-585, -1, 2": true,
+        "-1, 0, 7": false,
+        "42, -5, -9": false,
+        "-3, -6, 72": false
+      }
+    },
+    {
+      "question": "Determine l so that 0 + 2/5*l**3 - 12/5*l**2 - 14/5*l = 0.",
+      "answers": {
+        "-1, 0, 7": true,
+        "-15": false,
+        "42": false,
+        "3": false
+      }
+    },
+    {
+      "question": "What is next in -5264, -10837, -16408, -21977, -27544, -33109?",
+      "answers": {
+        "-38672": true,
+        "-31209": false,
+        "-31098": false
+      }
+    },
+    {
+      "question": "What is the f'th term of 25, 295, 1059, 2569, 5077, 8835, 14095, 21109?",
+      "answers": {
+        "42*f**3 - 5*f**2 - 9*f - 3": true,
+        "-38672*f + 102983": false,
+        "-107*f**2 + 9187*f": false
+      }
+    }
+  ]
+}

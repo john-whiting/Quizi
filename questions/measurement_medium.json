@@ -1,0 +1,13 @@
+{
+  "questionType": "measurement_medium",
+  "questions": [
+    {
+      "question": "How many hours are there in fourty-one halves of a week?",
+      "answers": {"3444": true, "1928": false}
+    },
+    {
+      "question": "How many minutes are there between 7:05 AM and 7:24 AM?",
+      "answers": {"19": true, "34": false }
+    }
+  ]
+}

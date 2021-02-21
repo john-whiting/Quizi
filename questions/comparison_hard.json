@@ -1,0 +1,70 @@
+{
+  "questionType": "comparison_hard",
+  "questions": [
+    {
+      "question": "Which is the nearest to 889?  (a) 268  (b) -2  (c) 0.06  (d) 3.3",
+      "answers": {
+        "a": true,
+        "b": false,
+        "c": false
+      }
+    },
+    {
+      "question": "Let n be (-7303)/10355 + (-3)/(-5). What is the closest to 3 in 0.1, -9, n, 3?",
+      "answers": {"3": true, "-9": false, "0.3": false, "n": false}
+    },
+    {
+      "question": "Which is the seventh smallest value?  (a) -81/7  (b) 0  (c) -1/7  (d) 67  (e) 68  (f) 0.3  (g) -4",
+      "answers": {
+        "e": true,
+        "a": false,
+        "g": false,
+        "b": false,
+        "c": false,
+        "d": false,
+        "f": false
+      }
+    },
+    {
+      "question": "Let m = 3.29 + 0.71. Let y be ((-1)/12)/((-42)/(-28)). Which is the third biggest value?  (a) y  (b) 0  (c) -4  (d) m",
+      "answers": {
+        "a": true,
+        "b": false,
+        "c": false,
+        "d": false
+      }
+    },
+    {
+      "question": "Is 5588016 >= 16764046/3?",
+      "answers": {
+        "True": true,
+        "False": false
+      }
+    },
+    {
+      "question": "Let o = -0.1 + -0.4. Let a = o - -0.53. Let g be (-12)/(-20)*(-12 - 590/(-45)). Which is greater: a or g?",
+      "answers": {
+        "g": true,
+        "a": false
+      }
+    },
+    {
+      "question": "Put -334, -1, 1, 0, 141, 22 in descending order.",
+      "answers": {
+        "141, 22, 1, 0, -1, -334": true,
+        "22, 1, 22, 141, -334, -1": false,
+        "-334, -1, 0, 1, 22, 141": false,
+        "-334, -1, 0, 22, 141, 1": false
+      }
+    },
+    {
+      "question": "Let n = 62264/5 - 12453. Sort n, 0.3, 26, 2 in descending order.",
+      "answers": {
+        "26, 2, 0.3, n": true,
+        "2, n, 26, 0.3": false,
+        "0.3, 26, n, 2": false,
+        "2, 0.3, n, 26": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "questionType": "arithmetic_easy",
+  "questions": [
+    {
+      "question": "Put together -32847 and 10.",
+      "answers": {
+        "-32837": true,
+        "-0.08": false,
+        "2": false,
+        "-7": false
+      }
+    },
+    {
+      "question": "In base 4, what is 2 - 113333?",
+      "answers": {
+        "-113331": true,
+        "-0.08": false,
+        "-7": false,
+        "-3": false
+      }
+    },
+    {
+      "question": "Calculate 4 - (-7 - (11 - 29)).",
+      "answers": {
+        "-7": true,
+        "65": false,
+        "-3": false,
+        "-0.08": false
+      }
+    },
+    {
+      "question": "Calculate -248 divided by -124.",
+      "answers": {
+        "2": true,
+        "-32837": false,
+        "65": false,
+        "-3": false
+      }
+    },
+    {
+      "question": "Calculate 4 + 0 + (-13 - (-6)).",
+      "answers": {
+        "-3": true,
+        "-0.08": false,
+        "3": false
+      }
+    },
+    {
+      "question": "0.08 times -1",
+      "answers": {
+        "-0.08": true,
+        "-7": false,
+        "-3": false,
+        "-113331": false
+      }
+    },
+    {
+      "question": "Evaluate 15/10*16/8.",
+      "answers": {
+        "3": true,
+        "-7": false,
+        "-0.08": false,
+        "-113331": false
+      }
+    },
+    {
+      "question": "What is the \\sqrt[2]{4262} to the nearest integer?",
+      "answers": {
+        "65": true,
+        "-sqrt(17)/20": false,
+        "-7": false,
+        "-0.08": false
+      }
+    },
+    {
+      "question": "Simplify sqrt(51)/((sqrt(75) - ((sqrt(75) + 3*sqrt(75) + sqrt(75) + sqrt(75) - sqrt(75)) + sqrt(75))) + sqrt(75)).",
+      "answers": {
+        "-sqrt(17)/20": true,
+        "-0.08": false,
+        "-113331": false,
+        "-3": false
+      }
+    }
+  ]
+}

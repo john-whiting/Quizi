@@ -1,0 +1,72 @@
+{
+  "questionType": "algebra_hard",
+  "questions": [
+    {
+      "question": "Solve 0 = s + 8*s + 6*s - 22*s + 238 for s.",
+      "answers": {
+        "34": true,
+        "26": false,
+        "35": false,
+        "25": false
+      }
+    },
+    {
+      "question": "Let l = 2 + -2. Let a = -6110 + 6119. Solve l = -t - 2*t - a for t.",
+      "answers": {
+        "-3": true,
+        "-5": false,
+        "-8": false
+      }
+    },
+    {
+      "question": "Solve -2*i = -0*z + 3*z + 110, 9*i = 4*i - 3*z - 284 for i.",
+      "answers": {
+        "-58": true,
+        "-67": false,
+        "-40": false,
+        "-64": false
+      }
+    },
+    {
+      "question": "Let u = -692 - -695. Suppose -17*v + u*f = -22*v + 32, -2*f + 4 = -v. Solve -3*h + v*t = -23, 2 = -5*h + t + 29 for h.",
+      "answers": {
+        "5": true,
+        "4": false,
+        "65": false
+      }
+    },
+    {
+      "question": "Solve 4*h**5 - 23045083*h**4 + 132509125*h**3 - 172837957*h**2 + 40328851*h + 23045060 = 0 for h.",
+      "answers": {
+        "-1/4, 1, 4, 5761265": true,
+        "3": false,
+        "45": false,
+        "5": false
+      }
+    },
+    {
+      "question": "Let x(t) = -141*t**3 + 7749*t**2 + 333*t - 160. Let p be x(55). Factor 2*u**4 + 48*u + 0 + 28*u**3 + 200/3*u**2 - 2/3*u**p.",
+      "answers": {
+        "-2*u*(u - 9)*(u + 2)**3/3": true,
+        "-30040*u*(u-9)": false,
+        "u**2 + 68*u + 4150820": false
+      }
+    },
+    {
+      "question": "What is the next term in -23292, -24979, -26666, -28353?",
+      "answers": {
+        "-30040": true,
+        "-90123": false,
+        "-50820": false
+      }
+    },
+    {
+      "question": "What is the w'th term of 4150889, 4150960, 4151033, 4151108, 4151185, 4151264, 4151345?",
+      "answers": {
+        "w**2 + 68*w + 4150820": true,
+        "30040*w + 9827878": false,
+        "10983*w + 5761265": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "questionType": "probability_medium",
+  "questions": [
+    {
+      "question": "Two letters picked without replacement from {p: 3, n: 5}. What is prob of picking 1 p and 1 n?",
+      "answers": {
+        "15/28": true,
+        "5/168": false
+      }
+    },
+    {
+      "question": "Three letters picked without replacement from xxxxdxodd. What is prob of sequence xod?",
+      "answers": {
+        "5/168": true,
+        "15/28": false
+      }
+    }
+  ]
+}

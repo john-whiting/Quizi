@@ -1,0 +1,47 @@
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <a class="navbar-brand" href="#" style="font-weight:800;">Quizi</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+  
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+                <a class="nav-link" href="/">Home</a>
+            </li>
+            <% if (typeof user == 'object' && user) { %>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Problem Categories
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="/q/algebra"    >Algebra</a>
+                        <a class="dropdown-item" href="/q/arithmetic" >Arithmetic</a>
+                        <a class="dropdown-item" href="/q/calculus"   >Calculus</a>
+                        <a class="dropdown-item" href="/q/comparison" >Comparison</a>
+                        <a class="dropdown-item" href="/q/measurement">Measurement</a>
+                        <a class="dropdown-item" href="/q/numbers"    >Numbers</a>
+                        <a class="dropdown-item" href="/q/polynomials">Polynomials</a>
+                        <a class="dropdown-item" href="/q/probability">Probability</a>
+                    </div>
+                </li>
+            <% } %>
+        </ul>
+        <div class="ml-auto">
+            <ul class="navbar-nav">
+            <% if (typeof user == 'object' && user) { %>
+                <li class="nav-item"> 
+                    <a class="nav-link" href="/logout">Logout</a>
+                </li>
+            <% } else { %>
+                <li class="nav-item">
+                    <a class="nav-link" href="/signup">Signup</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/login">Login</a>
+                </li>
+            <% } %>
+            </ul>
+        </div>
+    </div>
+</nav>

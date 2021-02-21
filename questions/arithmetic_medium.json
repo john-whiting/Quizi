@@ -1,0 +1,86 @@
+{
+  "questionType": "arithmetic_medium",
+  "questions": [
+    {
+      "question": "Add together 145857 and -100596.",
+      "answers": {
+        "45261": true,
+        "4.29012": false,
+        "2": false,
+        "56": false
+      }
+    },
+    {
+      "question": "In base 3, what is 100001211 + -2?",
+      "answers": {
+        "100001202": true,
+        "6/11": false,
+        "-24": false,
+        "56": false
+      }
+    },
+    {
+      "question": "What is -16 + 38 + -30 + 1 + 28?",
+      "answers": {
+        "21": true,
+        "2": false,
+        "102": false, 
+        "-24": false
+      }
+    },
+    {
+      "question": "Calculate -8212 divided by -4106.",
+      "answers": {
+        "2": true,
+        "4.29012": false,
+        "-99": false,
+        "6/11": false
+      }
+    },
+    {
+      "question": "20/2 - ((-7 - -6) + (-105)/(-3))",
+      "answers": {
+        "-24": true,
+        "-26": false,
+        "45261": false,
+        "6/11": false
+      }
+    },
+    {
+      "question": "-0.4206 times -10.2",
+      "answers": {
+        "4.29012": true,
+        "6/11": false,
+        "56": false,
+        "-24": false
+      }
+    },
+    {
+      "question": "Calculate (-9)/(((-18)/8)/(((-975)/(-286))/25)).",
+      "answers": {
+        "6/11": true,
+        "9/13": false,
+        "9/8": false,
+        "6/13": false 
+      }
+    },
+    {
+      "question": "What is the third root of 175618 to the nearest integer?",
+      "answers": {
+        "56": true,
+        "65": false,
+        "-24": false,
+        "45261": false
+      }
+    },
+    {
+      "question": "Simplify (-2*2*sqrt(11) + sqrt(44)/sqrt(4)*-6 + (sqrt(22) - (-2*sqrt(3168) + sqrt(3168)))/sqrt(2))**2*-1.",
+      "answers": {
+        "-99": true,
+        "56": false,
+        "4.29012": false,
+        "79": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "questionType": "algebra_easy",
+  "questions": [
+    {
+      "question": "Solve 14*h - 13 = -97 for h.",
+      "answers": {
+        "-6": true,
+        "-5": false,
+        "-3": false,
+        "-1": false
+      }
+    },
+    {
+      "question": "Suppose -3 = -4*c + c. Solve -3*m - 2 = c for m.",
+      "answers": {
+        "-1": true,
+        "-5": false,
+        "-2": false,
+        "-3": false
+      }
+    },
+    {
+      "question": "Solve -5 = 2*g - 3*b, -2*g + 2*b - 162 = -158 for g.",
+      "answers": {
+        "-1": true,
+        "-4": false,
+        "-5": false
+      }
+    },
+    {
+      "question": "Suppose 3*u + u - 52 = 0. Let k = 18 - u. Let v(s) = s**3 - 9*s**2 + 8*s. Let o be v(8). Solve -3*f - 10 = 4*b, 2*f + o*f - 1 = k*b for b.",
+      "answers": {
+        "-1": true,
+        "-5": false,
+        "-4": false,
+        "-2": false
+      }
+    },
+    {
+      "question": "Factor 2*p**3/13 + 48*p**2/13 - 50*p/13.",
+      "answers": {
+        "2*p*(p - 1)*(p + 25)/13": true,
+        "(p-1)*(p+25)": false,
+        "2*p*(p-1)": false
+      }
+    },
+    {
+      "question": "Suppose 5*m - 19 = -0*o + 2*o, 4*m - 11 = 3*o. What is p in -p**5 + 3*p**4 - p**5 + 5*p**3 - 6*p**3 + 6*p**m = 0?",
+      "answers": {
+        "-1, 0, 1/4": true,
+        "-1, 0, 1": false,
+        "2": false,
+        "5": false
+      }
+    },
+    {
+      "question": "What is the next term in 1, -13, -17, -5, 29, 91, 187, 323?",
+      "answers": {
+        "505": true,
+        "552": false
+      }
+    },
+    {
+      "question": "What is the l'th term of 178, 350, 516, 676?",
+      "answers": {
+        "-3*l**2 + 181*l": true,
+        "2*l*(l - 1)*(l + 25)/13": false
+      }
+    }
+  ]
+}

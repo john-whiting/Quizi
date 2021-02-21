@@ -1,0 +1,13 @@
+{
+  "questionType": "measurement_easy",
+  "questions": [
+    {
+      "question": "How many centimeters are there in 71957.13 millimeters?",
+      "answers": {"7195.713": true, "7352.826": false}
+    },
+    {
+      "question": "What is 611 minutes before 5:46 AM?",
+      "answers": {"7:35 PM": true, "8:35 PM": false}
+    }
+  ]
+}

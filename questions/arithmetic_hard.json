@@ -1,0 +1,86 @@
+{
+  "questionType": "arithmetic_hard",
+  "questions": [
+    {
+      "question": "What is the distance between -1668 and 225.724385173?",
+      "answers": {
+        "1893.724385173": true,
+        "4950": false,
+        "-23317472.4": false,
+        "867226": false
+      }
+    },
+    {
+      "question": "In base 9, what is 867253 - 26?",
+      "answers": {
+        "867226": true,
+        "3/11": false,
+        "9/11": false,
+        "4950": false
+      }
+    },
+    {
+      "question": "What is the value of (-12 - 28) + 9 + 17 - ((5 - 12) + 2)?",
+      "answers": {
+        "-9": true,
+        "4": false,
+        "8": false, 
+        "-7": false
+      }
+    },
+    {
+      "question": "What is -64509666 divided by 4962282?",
+      "answers": {
+        "-13": true,
+        "329": false,
+        "-23317472.4": false,
+        "3/11": false
+      }
+    },
+    {
+      "question": "What is the value of 162/4*(-100)/(-225) - 258/2?",
+      "answers": {
+        "-111": true,
+        "4950": false,
+        "329": false,
+        "465": false
+      }
+    },
+    {
+      "question": "What is 0.4 times -58293681?",
+      "answers": {
+        "-23317472.4": true,
+        "4950": false,
+        "3/11": false,
+        "329": false
+      }
+    },
+    {
+      "question": "Calculate (-14)/(-56)*((-4)/(-10))/((-187)/(-510)).",
+      "answers": {
+        "3/11": true,
+        "23.4": false,
+        "4950": false,
+        "329": false
+      }
+    },
+    {
+      "question": "What is the cube root of 35685455 to the nearest integer?",
+      "answers": {
+        "329": true,
+        "4950": false,
+        "387": false,
+        "867": false
+      }
+    },
+    {
+      "question": "Simplify ((2*(sqrt(288) + sqrt(18)))/(sqrt(99)/(sqrt(275) + sqrt(11) - sqrt(11))))**2 - 5*(2 + (sqrt(12)/sqrt(6)*-2)**2).",
+      "answers": {
+        "4950": true,
+        "867226": false,
+        "-13": false,
+        "4927": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "questionType": "numbers_hard",
+  "questions": [
+    {
+      "question": "Convert -1c727 (base 15) to base 8.",
+      "answers": {
+        "-265101": true,
+        "-291098": false,
+        "-718198": false,
+        "-612451": false
+      }
+    },
+    {
+      "question": "What is the remainder when 2505950 is divided by 5165?",
+      "answers": {
+        "925": true,
+        "836": false,
+        "190": false,
+        "636": false
+      }
+    },
+    {
+      "question": "What is the remainder when 5/(50/16056) - 1784/(-4460) is divided by 8?",
+      "answers": {
+        "6": true,
+        "5": false,
+        "7": false,
+        "4": false
+      }
+    },
+    {
+      "question": "What is the highest common factor of 32032134 and 25130?",
+      "answers": {
+        "718": true,
+        "725": false,
+        "743": false,
+        "697": false
+      }
+    },
+    {
+      "question": "Let a = 105 + -96. Let y be 18/12*696/a. Calculate the highest common factor of y and 29.",
+      "answers": {
+        "29": true,
+        "34": false,
+        "26": false,
+        "27": false
+      }
+    },
+    {
+      "question": "Is 300510180 a multiple of 580?",
+      "answers": {
+        "True": true,
+        "False": false
+      }
+    },
+    {
+      "question": "Suppose -225 = -5*x + 5*a, 58 = -2*x - 5*a + 169. Is 11360/x - 4/(-6)*-1 a multiple of 6?",
+      "answers": {
+        "False": true,
+        "True": false
+      }
+    },
+    {
+      "question": "Is 125516546891 a prime number?",
+      "answers": {
+        "False": true,
+        "True": false
+      }
+    },
+    {
+      "question": "Suppose 106*q = 101*q + 30. Suppose -7770 = -q*h + 7248. Is h a composite number?",
+      "answers": {
+        "False": true,
+        "True": false
+      }
+    },
+    {
+      "question": "What is the lowest common multiple of 749835 and 115774524?",
+      "answers": {
+        "578872620": true,
+        "302958971": false,
+        "190000008": false,
+        "102938120": false
+      }
+    },
+    {
+      "question": "Suppose 157 = 20*u - 23. Find the common denominator of (-5)/u*(76 + -69) and -30/7.",
+      "answers": {
+        "63": true,
+        "57": false,
+        "73": false,
+        "71": false
+      }
+    },
+    {
+      "question": "What are the prime factors of 974508690?",
+      "answers": {
+        "2, 3, 5, 32483623": true,
+        "2, 5, 6, 11": false,
+        "3, 7, 13, 201": false,
+        "11, 27, 103": false         
+      }
+    },
+    {
+      "question": "List the prime factors of (-6)/(-81) + 55394938/4239.",
+      "answers": {
+        "2, 3, 11": true,
+        "11, 27, 103": false,
+        "2,3 , 5, 32483623": false,
+        "2, 5, 6, 11": false
+      }
+    },
+    {
+      "question": "What is the ten millions digit of 669047630?",
+      "answers": {
+        "6": true,
+        "7": false,
+        "5": false,
+        "2": false
+      }
+    },
+    {
+      "question": "Let v(a) = -3 - 3*a - 8 - 3. Let q be v(-6). Suppose 0 = i + q*s - 16, 4*i - s - 106 = -3*s. What is the tens digit of i?",
+      "answers": {
+        "2": true,
+        "3": false,
+        "1": false,
+        "9": false         
+      }
+    },
+    {
+      "question": "Round -3.02946236 to four decimal places.",
+      "answers": {
+        "-3.0295": true,
+        "-3.02946": false,
+        "-3.0294624": false,
+        "-3.03": false         
+      }
+    },
+    {
+      "question": "Suppose -3*u + 3*j = -141, 5*j - 35 - 24 = -2*u. Suppose 0 = 7*g - u - 0. Suppose -96000000 = 11*d - g*d. Round d to the nearest one million.",
+      "answers": {
+        "-19000000": true,
+        "-57000000": false,
+        "-30000000": false,
+        "-27000000": false
+      }
+    }
+    ]
+}

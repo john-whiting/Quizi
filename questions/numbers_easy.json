@@ -1,0 +1,150 @@
+{
+  "questionType": "numbers_easy",
+  "questions": [
+    {
+      "question": "What is 28 (base 11) in base 4?",
+      "answers": {
+        "132": true,
+        "312": false,
+        "213": false,
+        "321": false
+      }
+    },
+    {
+      "question": "What is the remainder when 1556 is divided by 32?",
+      "answers": {
+        "20": true,
+        "27": false,
+        "23": false,
+        "16": false
+      }
+    },
+    {
+      "question": "Let t(l) = -l**3 + 3*l**2 - l + 2. Let j be 2*(3 + 0)/3. Let q be t(j). Suppose p = 5*i - 35, -q*i + 3 + 25 = 3*p. What is the remainder when i is divided by 4?",
+      "answers": {
+        "3": true,
+        "6": false,
+        "7": false,
+        "5": false
+      }
+    },
+    {
+      "question": "Calculate the highest common divisor of 360 and 1656.",
+      "answers": {
+        "72": true,
+        "75": false,
+        "10": false,
+        "26": false
+      }
+    },
+    {
+      "question": "Suppose 0 = y - 45 - 99. Calculate the highest common divisor of 16 and y.",
+      "answers": {
+        "16": true,
+        "20": false,
+        "15": false,
+        "25": false
+      }
+    },
+    {
+      "question": "Does 5 divide 1066?",
+      "answers": {
+        "False": true,
+        "True": false
+      }
+    },
+    {
+      "question": "Let a be 4/6*(-1 + 4). Let b be -1 + (-25 - (a - 3)). Let s = -9 - b. Is s a multiple of 6?",
+      "answers": {
+        "False": true,
+        "True": false
+      }
+    },
+    {
+      "question": "Is 2101 a composite number?",
+      "answers": {
+        "True": true,
+        "False": false
+      }
+    },
+    {
+      "question": "Suppose 5*g + 1 - 11 = 0. Suppose 115 = 7*n - g*n - 2*k, 3*n + k - 58 = 0. Is n composite?",
+      "answers": {
+        "True": true,
+        "False": false
+      }
+    },
+    {
+      "question": "What is the lowest common multiple of 18 and 1530?",
+      "answers": {
+        "1530": true,
+        "2301": false,
+        "3056": false,
+        "2621": false
+      }
+    },
+    {
+      "question": "Let l(o) = -o**3 + 5*o**2 - 4*o - 1. Let q(r) = r + 18. What is the smallest common multiple of q(-8) and l(3)?",
+      "answers": {
+        "10": true,
+        "15": false,
+        "21": false,
+        "17": false
+      }
+    },
+    {
+      "question": "List the prime factors of 2621.",
+      "answers": {
+        "2621": true,
+        "5": false,
+        "3": false,
+        "132": false
+      }
+    },
+    {
+      "question": "Suppose -60 = 3*b - 7*b. List the prime factors of b.",
+      "answers": {
+        "3, 5": true,
+        "2, 3": false,
+        "2, 5": false,
+        "5, 7": false
+      }
+    },
+    {
+      "question": "What is the thousands digit of 12989?",
+      "answers": {
+        "2": true,
+        "7": false,
+        "3": false,
+        "5": false
+      }
+    },
+    {
+      "question": "What is the units digit of ((-126)/(-5))/(2/5)?",
+      "answers": {
+        "3": true,
+        "2": false,
+        "5": false,
+        "1": false
+      }
+    },
+    {
+      "question": "Round -0.2322 to two decimal places.",
+      "answers": {
+        "-0.23": true,
+        "-0.16": false,
+        "-0.70": false,
+        "-0.21": false
+      }
+    },
+    {
+      "question": "Let w(n) = n - 3. Let p be w(-2). Suppose 5*h + 1 = -2*x + 2, 2*x = -4*h. Let r be p*42/(2 + h). Round r to the nearest ten.",
+      "answers": {
+        "-70": true,
+        "-72": false,
+        "-35": false,
+        "-37": false
+      }
+    }
+  ]
+}

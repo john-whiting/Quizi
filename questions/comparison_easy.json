@@ -1,0 +1,69 @@
+{
+  "questionType": "comparison_easy",
+  "questions": [
+    {
+      "question": "Which is the nearest to -54?  (a) -2/7  (b) -2/3  (c) -13",
+      "answers": {
+        "c": true,
+        "a": false,
+        "b": false
+      }
+    },
+    {
+      "question": "Let f(g) = 2*g**3 - 13*g**2 - 5*g - 12. Let m be f(7). Which is the closest to 1?  (a) -1  (b) m  (c) 1/2",
+      "answers": {
+        "c": true,
+        "a": false,
+        "b": false
+      }
+    },
+    {
+      "question": "What is the smallest value in -1/2, 63, -8?",
+      "answers": {
+        "-8": true,
+        "-1/2": false,
+        "63": false
+      }
+    },
+    {
+      "question": "Let y = 29 - 24. What is the third smallest value in y, -0.6, 4?",
+      "answers": {
+        "y": true,
+        "-0.6": false,
+        "4": false
+      }
+    },
+    {
+      "question": "Which is bigger: 2/21 or -0.17?",
+      "answers": {
+        "2/21": true,
+        "-0.17": false
+      }
+    },
+    {
+      "question": "Let c be 5/3 + 4/(-6). Let g(o) = 2*o - 1. Let m = -31 - -32. Let i be g(m). Is i at most c?",
+      "answers": {
+        "True": true,
+        "False": false
+      }
+    },
+    {
+      "question": "Sort 0, -8, 4, -4, 52 in decreasing order.",
+      "answers": {
+        "52, 4, 0, -4, -8": true,
+        "4, 0, 52, -8, -4": false,
+        "-8, -4, 0, 4, 52": false,
+        "52, -8, 4, 0, -4": false
+      }
+    },
+    {
+      "question": "Let l = 4 + -4. Let v = -1.5 - -1.1. Put 0.3, v, l in increasing order.",
+      "answers": {
+        "v, l, 0.3": true,
+        "1, v, 0.3": false,
+        "0.3, 1, v": false,
+        "v, 0.3, 1": false
+      }
+    }
+  ]
+}

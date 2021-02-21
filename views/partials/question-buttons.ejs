@@ -1,0 +1,6 @@
+<% choices.forEach(choice => { %>
+    <div id="group_<%= choice.ans %>" class="custom-control custom-radio">
+        <input type="radio" id="radio_<%= choice.ans %>" name="answers" class="custom-control-input" value="<%= choice.ans %>">
+        <label class="custom-control-label" for="radio_<%= choice.ans %>"><%= choice.nice %></label>
+    </div>
+<% }) %>

@@ -1,0 +1,19 @@
+{
+  "questionType": "probability_easy",
+  "questions": [
+    {
+      "question": "Two letters picked without replacement from xshxhssxsx. Give prob of picking 2 s.",
+      "answers": {
+        "2/15": true,
+        "1/42": false
+      }
+    },
+    {
+      "question": "Two letters picked without replacement from {t: 1, r: 1, o: 1, u: 3, q: 1}. Give prob of sequence ro.",
+      "answers": {
+        "1/42": true,
+        "2/15": false
+      }
+    }
+  ]
+}

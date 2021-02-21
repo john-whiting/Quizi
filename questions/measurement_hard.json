@@ -1,0 +1,13 @@
+{
+  "questionType": "measurement_hard",
+  "questions": [
+    {
+      "question": "Convert 321214.1ms to nanoseconds.",
+      "answers": {"321214100000": true, "6610000000": false}
+    },
+    {
+      "question": "How many minutes are there between 6:32 AM and 5:33 PM?",
+      "answers": {"661": true, "631": false}
+    }
+  ]
+}

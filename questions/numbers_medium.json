@@ -1,0 +1,150 @@
+{
+  "questionType": "numbers_medium",
+  "questions": [
+    {
+      "question": "Convert -486 (base 11) to base 15.",
+      "answers": {
+        "-288": true,
+        "-140": false,
+        "-174": false,
+        "-101": false
+      }
+    },
+    {
+      "question": "What is the remainder when 2535 is divided by 106?",
+      "answers": {
+        "97": true,
+        "87": false,
+        "89": false,
+        "92": false
+      }
+    },
+    {
+      "question": "Let o(d) = 10*d. Suppose 0 = 5*k - 5*l - 70, 122*k - 127*k = 5*l - 90. What is the remainder when o(4) is divided by k?",
+      "answers": {
+        "8": true,
+        "2": false,
+        "3": false,
+        "1": false
+      }
+    },
+    {
+      "question": "What is the greatest common factor of 5282 and 646?",
+      "answers": {
+        "38": true,
+        "14": false,
+        "28": false,
+        "32": false
+      }
+    },
+    {
+      "question": "Let k = -229 + 156. Let t = -65 - k. What is the highest common factor of 24 and t?",
+      "answers": {
+        "8": true,
+        "10": false,
+        "12": false,
+        "6": false
+      }
+    },
+    {
+      "question": "Does 53 divide 3417365?",
+      "answers": {
+        "False": true,
+        "True": false
+      }
+    },
+    {
+      "question": "Let m be 4/(-6) + 4/6*163. Let o = m - 64. Does 16 divide o?",
+      "answers": {
+        "False": true,
+        "True": false
+      }
+    },
+    {
+      "question": "Is 528479857 prime?",
+      "answers": {
+        "True": true,
+        "False": false
+      }
+    },
+    {
+      "question": "Suppose -130779 = 10*l - 653909. Is l a prime number?",
+      "answers": {
+        "True": true,
+        "False": false
+      }
+    },
+    {
+      "question": "What is the common denominator of -35/136308 and -87/499796?",
+      "answers": {
+        "1499388": true,
+        "1918721": false,
+        "1740019": false,
+        "1309871": false
+      }
+    },
+    {
+      "question": "Let d = -1531 - -18337/12. Let o be (2 + 1200)/(8136/(-33)). Let g = -14/339 + o. Find the common denominator of d and g.",
+      "answers": {
+        "12": true,
+        "17": false,
+        "14": false,
+        "18": false
+      }
+    },
+    {
+      "question": "What are the prime factors of 7499526?",
+      "answers": {
+        "2, 3, 1249921": true,
+        "2, 3, 7, 12039": false,
+        "11, 13, 17, 29": false,
+        "3, 7, 11, 15": false
+      }
+    },
+    {
+      "question": "Let k(g) = -g**2 + 8*g - 4. Let n be k(7). Let d be (n - 43/(-2))*2. What are the prime factors of d/(-14)*(-8 + 2)?",
+      "answers": {
+        "3, 7": true,
+        "7, 11": false,
+        "13, 17": false,
+        "3, 11": false
+      }
+    },
+    {
+      "question": "What is the units digit of 5146888?",
+      "answers": {
+        "8": true,
+        "4": false,
+        "6": false,
+        "5": false
+      }
+    },
+    {
+      "question": "Suppose -101*h - 4*h = -101955. What is the units digit of h?",
+      "answers": {
+        "1": true,
+        "4": false,
+        "3": false,
+        "9": false
+      }
+    },
+    {
+      "question": "Round 17361.511 to the nearest 100.",
+      "answers": {
+        "17400": true,
+        "17360": false,
+        "17361.5": false,
+        "17362": false
+      }
+    },
+    {
+      "question": "Let n = 443 - 1817. What is n rounded to the nearest one hundred?",
+      "answers": {
+        "-1400": true,
+        "-1200": false,
+        "-1380": false,
+        "-1800": false
+      }
+    }
+  ]
+}

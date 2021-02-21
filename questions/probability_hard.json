@@ -1,0 +1,19 @@
+{
+  "questionType": "probability_hard",
+  "questions": [
+    {
+      "question": "Two letters picked without replacement from jiojo. What is prob of picking 1 o and 1 i?",
+      "answers": {
+        "1/5": true,
+        "1/3060": false
+      }
+    },
+    {
+      "question": "Calculate prob of sequence azaz when four letters picked without replacement from {j: 5, z: 4, f: 7, a: 2}.",
+      "answers": {
+        "1/3060": true,
+        "1/5": false
+      }
+    }
+  ]
+}

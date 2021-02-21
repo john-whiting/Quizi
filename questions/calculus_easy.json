@@ -1,0 +1,13 @@
+{
+  "questionType": "calculus_easy",
+  "questions": [
+    {
+      "question": "What is the derivative of 1271*o**4 - 309 wrt o?",
+      "answers": {"5084*o**3": true, "-12*x": false}
+    },
+    {
+      "question": "Suppose 3*m - 5*d - 9 = 0, -3*d = 3*m - 6*d - 9. Find the second derivative of 5*x - x - 3*x**m + x**3 wrt x.",
+      "answers": {"-12*x": true, "5084*x**3": false}
+    }
+  ]
+}

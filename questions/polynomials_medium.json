@@ -1,0 +1,77 @@
+{
+  "questionType": "polynomials_medium",
+  "questions": [
+    {
+      "question": "Let c(b) = -36*b - 24. Let z(r) = -2*r - 72. Let j(g) = g + 31. Let f(l) = 7*j(l) + 3*z(l). Give -c(o) - 24*f(o).",
+      "answers": {
+        "12*o": true,
+        "o**(5/2)": false,
+        "-105*o**2": false,
+        "-9": false
+      }
+    },
+    {
+      "question": "Express -3*q + 35*q**4 - 40*q**4 + 3 - q**2 + 2*q**2 + 0 in the form x*q + r + v*q**3 + d*q**2 + w*q**4 and give d.",
+      "answers": {
+        "1": true,
+        "7": false,
+        "9": false,
+        "5": false
+      }
+    },
+    {
+      "question": "Collect the terms in -2*o**2 - 8*o**2 - 48377 + 48377.",
+      "answers": {
+        "-10*o**2": true,
+        "705*o": false,
+        "o**(5/2)": false,
+        "-9*o": false
+      }
+    },
+    {
+      "question": "Let r(y) = 10951*y + 1880. Let j(x) = 146*x + 25. Let q(d) = 376*j(d) - 5*r(d). Let t(b) = 5*b. Give t(q(h)).",
+      "answers": {
+        "705*h": true,
+        "-9": false,
+        "-283": false,
+        "-105*h**2": false
+      }
+    },
+    {
+      "question": "Let h(x) = -3*x**2 + 69*x + 239. Calculate h(29).",
+      "answers": {
+        "-283": true,
+        "-105": false,
+        "-521": false,
+        "-260": false
+      }
+    },
+    {
+      "question": "Let u = 170 + -173. Let a(y) = y**2 + 7*y + 3. Determine a(u).",
+      "answers": {
+        "-9": true,
+        "-10": false,
+        "-15": false,
+        "-7": false
+      }
+    },
+    {
+      "question": "Expand (1 + 0 + 1)*(-4*f + f + 2*f)*(3*f + 2*f - 4*f + (26 + 2 - 3)*(-f + 2*f + f)) - f**2 - f**2 - f**2.",
+      "answers": {
+        "-105*f**2": true,
+        "-117*f": false,
+        "f**(5/2)": false,
+        "705*f": false
+      }
+    },
+    {
+      "question": "Simplify (o*o**(-2)*o)/o**3*o**5*((o*o/o**(3/2))/o*o*o)/o assuming o is positive.",
+      "answers": {
+        "o**(5/2)": true,
+        "-283*o": false,
+        "o**(3/2)": false,
+        "705*o": false
+      }
+    }
+  ]
+}
